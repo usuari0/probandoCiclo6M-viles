@@ -1,0 +1,2 @@
+rootProject.name = "idatCursoGitGrupo2"
+include ':app'
